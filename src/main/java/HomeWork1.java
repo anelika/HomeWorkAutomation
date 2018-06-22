@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class MainClass {
+public class HomeWork1 {
   public static void main(String[] args){
     System.setProperty("webdriver.gecko.driver", "C:\\Users\\user\\IdeaProjects\\testselenium\\drivers\\geckodriver.exe");
     WebDriver driver = new FirefoxDriver();
